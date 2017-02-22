@@ -7,7 +7,7 @@ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
-## Ejecución de los ejemplos
+## :zap: Ejecución de los ejemplos
 
 Para probar cualquiera de los ejemplos basta teclear `node` seguido del nombre del fichero que se quiere ejecutar.
 
@@ -18,7 +18,7 @@ cd 01HolaMundo
 node server.js
 ```
 
-## Descripción de los ejemplos
+## :clipboard: Descripción de los ejemplos
 
 <a href="01HolaMundo">:file_folder: 01HolaMundo</a>
 
