@@ -20,17 +20,17 @@ node server.js
 
 ## Descripción de los ejemplos
 
-:file_folder: <01HolaMundo>
+:file_folder: <a href="01HolaMundo">
 
 Un "Hola mundo" con lo mínimo.
 
-:file_folder: <02HolaMundoSeparandoServirdor>
+:file_folder: <a href="02HolaMundoSeparandoServirdor">
 
 "Hola mundo" separado en dos partes: `index.js` y `server.js`.
 
 :file_folder: 03RecogeUrl
 
-Recoge los datos de la URL. Probar por ejemplo <localhost:8888/hola?nombre=Luis>
+Recoge los datos de la URL. Probar por ejemplo <a href="localhost:8888/hola?nombre=Luis">
 
 :file_folder: 04RouterIncipiente
 
