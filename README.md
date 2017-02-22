@@ -17,3 +17,21 @@ Por ejemplo, para ejecutar el "Hola mundo":
 cd 01HolaMundo
 node server.js
 ```
+
+## Descripción de los ejemplos
+
+:file_folder: <01HolaMundo>
+
+Un "Hola mundo" con lo mínimo.
+
+:file_folder: <02HolaMundoSeparandoServirdor>
+
+"Hola mundo" separado en dos partes: `index.js` y `server.js`.
+
+:file_folder: 03RecogeUrl
+
+Recoge los datos de la URL. Probar por ejemplo <localhost:8888/hola?nombre=Luis>
+
+:file_folder: 04RouterIncipiente
+
+Empezamos a aislar en un fichero la funcionalidad de *routing*.
