@@ -1,6 +1,6 @@
 # Iniciación a NodeJS con ejemplos básicos
 
-## Instalación de NodeJS en Ubuntu
+## :wrench: Instalación de NodeJS en Ubuntu
 
 ```console
 curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
@@ -24,14 +24,19 @@ node server.js
 
 Un "Hola mundo" con lo mínimo.
 
+
 <a href="02HolaMundoSeparandoServirdor">:file_folder: 02HolaMundoSeparandoServirdor</a>
 
 "Hola mundo" separado en dos partes: `index.js` y `server.js`.
+
 
 <a href="03RecogeUrl">:file_folder: 03RecogeUrl</a>
 
 Recoge los datos de la URL. Probar por ejemplo <a href="http://localhost:8888/hola?nombre=Luis">http://localhost:8888/hola?nombre=Luis</a>
 
+
 <a href="04RouterIncipiente">:file_folder: 04RouterIncipiente</a>
 
 Empezamos a aislar en un fichero la funcionalidad de *routing*.
+
+
