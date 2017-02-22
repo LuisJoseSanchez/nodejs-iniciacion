@@ -24,14 +24,14 @@ node server.js
 
 Un "Hola mundo" con lo mínimo.
 
-:file_folder: <a href="02HolaMundoSeparandoServirdor">
+<a href="02HolaMundoSeparandoServirdor">:file_folder: 02HolaMundoSeparandoServirdor</a>
 
 "Hola mundo" separado en dos partes: `index.js` y `server.js`.
 
-:file_folder: 03RecogeUrl
+<a href="03RecogeUrl">:file_folder: 03RecogeUrl</a>
 
-Recoge los datos de la URL. Probar por ejemplo <a href="localhost:8888/hola?nombre=Luis">
+Recoge los datos de la URL. Probar por ejemplo <a href="http://localhost:8888/hola?nombre=Luis">http://localhost:8888/hola?nombre=Luis</a>
 
-:file_folder: 04RouterIncipiente
+<a href="04RouterIncipiente">:file_folder: 04RouterIncipiente</a>
 
 Empezamos a aislar en un fichero la funcionalidad de *routing*.
