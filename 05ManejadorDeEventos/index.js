@@ -3,8 +3,8 @@ var router = require("./router");
 var requestHandlers = require("./requestHandlers");
 
 var handle = {};
-handle["/"] = requestHandlers.iniciar;
-handle["/iniciar"] = requestHandlers.iniciar;
-handle["/subir"] = requestHandlers.subir;
+handle["/"] = requestHandlers.inicio;
+handle["/inicio"] = requestHandlers.inicio;
+handle["/contacto"] = requestHandlers.contacto;
 
 server.iniciar(router.route, handle);

@@ -40,3 +40,6 @@ Recoge los datos de la URL. Probar por ejemplo <a href="http://localhost:8888/ho
 Empezamos a aislar en un fichero la funcionalidad de *routing*.
 
 
+<a href="05ManejadorDeEventos">:file_folder: 05ManejadorDeEventos</a>
+
+Se crea el manejador de eventos `requestHandlers.js`.
