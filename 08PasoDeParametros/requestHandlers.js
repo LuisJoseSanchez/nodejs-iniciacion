@@ -12,6 +12,10 @@ function contacto() {
   return "Pagina de contacto";
 }
 
+function productos() {
+  return "Pagina de productos";
+}
+
 function saluda(nombre) {
   console.log("Manipulador de petición 'saluda' ha sido llamado.");
   return "Hola " + nombre;
@@ -19,4 +23,5 @@ function saluda(nombre) {
 
 exports.inicio = inicio;
 exports.contacto = contacto;
+exports.productos = productos;
 exports.saluda = saluda;

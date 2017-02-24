@@ -7,7 +7,7 @@ function iniciar(route, handle) {
     var pathname = url.parse(request.url).pathname;
     var cadenaDatos = request.url.split('?')[1];
     var nombre = querystring.parse(cadenaDatos)["nombre"];
-    response.writeHead(200, {"Content-Type": "text/html"});
+    response.writeHead(200, {"Content-Type": "text/html; charset=UTF-8"});
     response.write(route(pathname, handle, nombre));
     response.end();
   }
