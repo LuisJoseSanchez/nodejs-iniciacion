@@ -57,3 +57,8 @@ La página de **inicio** es la plantilla `index.html`.
 <a href="08PasoDeParametros">:file_folder: 08PasoDeParametros</a>
 
 Paso de parámetros por la URL.
+
+
+<a href="09CalculoDeLaMedia">:file_folder: 09CalculoDeLaMedia</a>
+
+Calcula la media aritmética de tres números que se introducen por teclado.
