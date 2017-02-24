@@ -1,7 +1,6 @@
 let fs = require('fs');
 
 function inicio() {
-  console.log("Manipulador de petición 'inicio' ha sido llamado.");
   let archivo = fs.readFileSync('formulario.html', 'utf-8');
   return archivo;
 }

@@ -11,13 +11,13 @@ function iniciar(route, handle) {
     var x2 = parseInt(querystring.parse(cadenaDatos)["x2"]);
     var x3 = parseInt(querystring.parse(cadenaDatos)["x3"]);
     var data = [x1, x2, x3];
-    response.writeHead(200, {"Content-Type": "text/html"});
+    response.writeHead(200, {"Content-Type": "text/html; charset=UTF-8"});
     response.write(route(pathname, handle, data));
     response.end();
   }
 
   http.createServer(onRequest).listen(8888);
-  console.log("Servidor Iniciado.");
+  console.log("Servidor iniciado en http://localhost:8888");
 }
 
 exports.iniciar = iniciar;
