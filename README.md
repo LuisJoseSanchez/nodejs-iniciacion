@@ -43,3 +43,17 @@ Empezamos a aislar en un fichero la funcionalidad de *routing*.
 <a href="05ManejadorDeEventos">:file_folder: 05ManejadorDeEventos</a>
 
 Se crea el manejador de eventos `requestHandlers.js`.
+
+
+<a href="06WebConSecciones">:file_folder: 06WebConSecciones</a>
+
+Web con las secciones **inicio**, **contacto** y **productos**.
+
+<a href="07WebConPlantilla">:file_folder: 07WebConPlantilla</a>
+
+La página de **inicio** es la plantilla `index.html`.
+
+
+<a href="08PasoDeParametros">:file_folder: 08PasoDeParametros</a>
+
+Paso de parámetros por la URL.
