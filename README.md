@@ -49,7 +49,7 @@ Se crea el manejador de eventos `requestHandlers.js`.
 
 Web con las secciones **inicio**, **contacto** y **productos**.
 
-<a href="07WebConPlantilla">:file_folder: 07WebConPlantilla</a>
+<a href="07WebConPlantillaHTML">:file_folder: 07WebConPlantillaHTML</a>
 
 La página de **inicio** es la plantilla `index.html`.
 
