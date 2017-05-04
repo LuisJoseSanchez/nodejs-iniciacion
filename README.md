@@ -3,7 +3,7 @@
 ## :wrench: Instalación de NodeJS en Ubuntu
 
 ```console
-curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
